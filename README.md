@@ -5,5 +5,8 @@ My week 8 quiz
 
 **Inspire Image**
 ![Inspire artwork](readmeimages/Part1%20inspire%20artwork.jpg)
+![Inspire artwork](readmeimages/Part1%20inspire%20artwork2.jpg)
+![Inspire artwork](readmeimages/Part1%20inspire%20artwork3.jpg)
+
 
 

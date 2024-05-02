@@ -24,4 +24,5 @@ There are the imaging techniques of artworks that I chose to inspire me. You can
 The coding technology I found to help achieve the imaging technology selected in Part 1 is Random Walker. Since the images of Part 1 are mainly random lines and shapes, I think is quite suitable. We can control the thickness and color of different lines, and each frame of these lines moves in a random direction. Therefore, I think the color matching is important, and the collision between the thickness of the lines. After determining the color, set the main color theme for the artwork, and use it as the background, then create other controllable elements, will produce interesting work.
 
 **Link of Coding Technique "Random Walker"**
+
 https://happycoding.io/tutorials/processing/animation/random-walker
